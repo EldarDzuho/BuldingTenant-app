@@ -1,0 +1,10 @@
+2024-06-10 12:58:08.086 +02:00 [INF] User profile is available. Using 'C:\Users\ELDAR\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-10 12:58:08.237 +02:00 [INF] Now listening on: http://localhost:5041
+2024-06-10 12:58:08.238 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-10 12:58:08.239 +02:00 [INF] Hosting environment: Development
+2024-06-10 12:58:08.239 +02:00 [INF] Content root path: C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api
+2024-06-10 13:01:22.586 +02:00 [INF] User profile is available. Using 'C:\Users\ELDAR\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-06-10 13:01:22.718 +02:00 [INF] Now listening on: http://localhost:5041
+2024-06-10 13:01:22.720 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-10 13:01:22.720 +02:00 [INF] Hosting environment: Development
+2024-06-10 13:01:22.720 +02:00 [INF] Content root path: C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api

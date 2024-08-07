@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
 {
-    [Microsoft.AspNetCore.Mvc.Route("api/BuildingTenant")]
+    [Route("api/BuildingTenant")]
     [ApiController]
     public class BuildingTenantController : ControllerBase
     {

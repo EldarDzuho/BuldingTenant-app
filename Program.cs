@@ -50,6 +50,7 @@ builder.Services.AddAuthentication(options => {
 });
 
 builder.Services.AddScoped<IBuildingTenantRepository, BuildingTenantRepository>();
+builder.Services.AddScoped<IBuildingAdminRepository, BuildingAdminRepository>();
 builder.Services.AddScoped<ITokenService, TokenService>();
 
 var app = builder.Build();

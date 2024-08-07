@@ -154,3 +154,4 @@ C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api\bin\Debug\net8.0\Serilog.Sinks.Con
 C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api\bin\Debug\net8.0\Serilog.Sinks.File.dll
 C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+C:\Users\ELDAR\Desktop\Firma\AdminBackEnd\api\obj\Debug\net8.0\api.sourcelink.json

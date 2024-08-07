@@ -18,7 +18,7 @@ namespace api.Controllers
             _buildingAdminRepo = buildingAdminRepo;
             _context = context;
         }
-
+ 
         [HttpGet]
          [Route("")]
 

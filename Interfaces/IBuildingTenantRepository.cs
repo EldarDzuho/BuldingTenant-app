@@ -4,7 +4,7 @@ using api.Models;
 namespace api.Interfaces
 {
     public interface IBuildingTenantRepository
-    {
+    { 
         
         Task<List<BuildingTenant>> GetAllAsync();
 

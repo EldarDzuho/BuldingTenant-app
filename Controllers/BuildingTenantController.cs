@@ -6,11 +6,11 @@ using api.Mappers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
-{
+{  
     [Route("api/BuildingTenant")]
     [ApiController]
     public class BuildingTenantController : ControllerBase
-    {
+    { 
         private readonly ApplicationDBContext _context;
         private readonly IBuildingTenantRepository _buildingTenantRepo;
         public BuildingTenantController(ApplicationDBContext context, IBuildingTenantRepository buildingTenantRepo)

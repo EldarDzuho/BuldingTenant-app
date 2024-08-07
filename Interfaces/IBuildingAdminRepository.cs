@@ -8,7 +8,7 @@ using api.Models;
 namespace api.Interfaces
 {
     public interface IBuildingAdminRepository
-    {
+    { 
         Task<List<BuildingAdmin>> GetAllAsync();
         Task<BuildingAdmin?> GetByIdAsync(int id);
         Task<BuildingAdmin> CreateAsync(BuildingAdmin buildingAdminModel);
